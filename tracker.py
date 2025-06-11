@@ -2,7 +2,7 @@ import requests, time
 from datetime import datetime
 
 USER_ID = 2387879471
-WEBHOOK_URL = "https://discord.com/api/webhooks/1374885341114142791/YzlOJDCJqe1IsYO4QThuFDNwwRj4ZmWyAqnkN8XIssTuSV1VTfc36cdobdP4HTcNyOFw"
+WEBHOOK_URL = "w"
 
 last_presence_type = None
 last_avatar_url = None
